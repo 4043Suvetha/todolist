@@ -1,6 +1,6 @@
 # React + Vite
 
-here node modules and public folders are included
+here node modules and public folders are not included
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
